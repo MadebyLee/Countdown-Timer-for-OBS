@@ -1,2 +1,2 @@
 # Countdown-Timer-for-OBS
-A simple HTML script Countdown Timer
+A simple HTML script Countdown Timer for OBS
